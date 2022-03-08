@@ -72,7 +72,7 @@ You can choose a template which will be used by Locator from these :
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/Optane002/Locator.git
+git clone https://github.com/H4x1337/Locator.git
 cd Locator/
 chmod 777 install.sh
 ./install.sh
@@ -87,13 +87,13 @@ pacman -S Locator
 ### Docker
 
 ```bash
-docker pull Optane002/Locator
+docker pull H4x1337/Locator
 ```
 
 ### Termux
 
 ```bash
-git clone https://github.com/Optane002/Locator.git
+git clone https://github.com/H4x1337/Locator.git
 cd Locator/
 chmod 777 termux_install.sh
 ./termux_install.sh
